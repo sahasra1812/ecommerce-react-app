@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Mobile Phone",
+    "category": "Electronics",
+    "price": 20000,
+    "stock": 3,
+    "description": "Modern smartphone for everyday use.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeB--Y0ZDz9VuXCXfAzh37_8RSm3_0vHqqQg5A1Jojg&s=10"
+  },
+  {
+    "id": 2,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 0,
+    "description": "Wireless headphones with clear sound.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCt0QXScDtHvqPkezVqFfcx4QSogjwQj3rDVU7rOFJZA&s=10"
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "stock": 5,
+    "description": "Powerful laptop for study and work.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbRX4P5ykLNYSaM2Hmn2sno_f3jEUzEZq5LAbvMXR1kQ&s=10"
+  },
+  {
+    "id": 4,
+    "name": "T-Shirt",
+    "category": "Fashion",
+    "price": 800,
+    "stock": 0,
+    "description": "Comfortable casual cotton T-shirt.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJT0HndVRQic7zKpVWG78-6ogeIz1Oe03NrQd60ucHgg&s=10"
+  },
+  {
+    "id": 5,
+    "name": "Fashion Bag",
+    "category": "Fashion",
+    "price": 1499,
+    "stock": 5,
+    "description": "Stylish bag for everyday use.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpLuJuNBDpz5aqaM2wpxtoE5BdlfvUbtr-SheGVFOhQ&s=10"
+  },
+  {
+    "id": 6,
+    "name": "Sports Shoes",
+    "category": "Fashion",
+    "price": 2200,
+    "stock": 6,
+    "description": "Comfortable shoes for daily activities.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCOppvtMBrYYj9iKl6UiY9BLoWFulhpcaUCyAOxP_UUQ&s"
+  },
+  {
+    "id": 7,
+    "name": "Coffee Mug",
+    "category": "Home & Kitchen",
+    "price": 300,
+    "stock": 10,
+    "description": "Simple ceramic mug for everyday use.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVy4ELxMVq6hq9eLALtTyHiE9DNWertPgpRZH0vwYwAw&s=10"
+  },
+  {
+    "id": 8,
+    "name": "Kitchen Set",
+    "category": "Home & Kitchen",
+    "price": 1800,
+    "stock": 4,
+    "description": "Useful kitchen tools for your home.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoIEHG9GIEFWVEn5ppas0Jgu3cDKx302ptUZDBl1pReg&s"
+  },
+  {
+    "id": 9,
+    "name": "Table Lamp",
+    "category": "Home & Kitchen",
+    "price": 1200,
+    "stock": 5,
+    "description": "Simple lamp for your study or bedroom.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlduDYzptD4yCZpIJucKp1YVX18grAn5t_QpCCxt7tg&s=10"
+  }
+]
